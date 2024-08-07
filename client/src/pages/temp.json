@@ -1,0 +1,810 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2386,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "kAr0DwAAQBAJ",
+            "etag": "rR5kW/aG3UM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kAr0DwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Star Wars Book",
+                "subtitle": "Expand your knowledge of a galaxy far, far away",
+                "authors": ["Cole Horton", "Pablo Hidalgo", "Dan Zehr"],
+                "publisher": "Penguin",
+                "publishedDate": "2020-10-20",
+                "description": "This is the Star Wars book you're looking for. If you want to comprehend the epic and intricate Star Wars saga, this is the book for you. It is a unique and insightful examination of this beloved franchise, including Star Wars: The Mandalorian, Star Wars: The Clone Wars, and Star Wars: The Rise of Skywalker. Written by Star Wars experts, including fan-favorite Pablo Hidalgo, this book is packed with stunning film and TV stills, illuminating infographics and curated essays that reveal the mysteries of the Star Wars galaxy. From legendary heroes like Luke Skywalker and Leia Organa to fascinating species like the Wookiees and Tusken Raiders, this book explores the central characters, technology, governments, and events that have shaped the epic saga. The book is divided into key subject areas - the galaxy, science and technology, the Force, the Skywalkers, galactic governments and their dissidents, and galactic denizens. Whether you are a devoted Star Wars fan or a casual reader curious to learn more, The Star Wars Book is an invaluable roadmap to this galaxy, far far away.... © & ™ 2020 Lucasfilm Ltd",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780744037852"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0744037859"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 736,
+                "printType": "BOOK",
+                "categories": ["Performing Arts"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.8.8.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kAr0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kAr0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=kAr0DwAAQBAJ&printsec=frontcover&dq=star+wars&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=kAr0DwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kAr0DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 10.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 10.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=kAr0DwAAQBAJ&rdid=book-kAr0DwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 10990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 10990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/The_Star_Wars_Book-sample-epub.acsm?id=kAr0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/The_Star_Wars_Book-sample-pdf.acsm?id=kAr0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kAr0DwAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This is the Star Wars book you&#39;re looking for. If you want to comprehend the epic and intricate Star Wars saga, this is the ebook for you."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "S7HqPbh3uI4C",
+            "etag": "3bRHxwd2N3I",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/S7HqPbh3uI4C",
+            "volumeInfo": {
+                "title": "Anticipation",
+                "subtitle": "The Real Life Story of Star Wars: Episode I-The Phantom Menace",
+                "authors": ["Jonathan Bowen"],
+                "publisher": "iUniverse",
+                "publishedDate": "2005-04",
+                "description": "In 1999, the first new Star Wars movie in sixteen years came to theater screens worldwide. Leading up to the release of the film, the hype and media coverage reached epic proportions. The Phantom Menace graced every cover from Vanity Fair to Newsweek to Entertainment Weekly. Fans began camping in line for more than a month in Los Angeles just to be first to see the new film. Anticipation tells the real-life story of a movie that faced expectations unlike those of any other film in history, but had the advantage of years of anticipation and excitement from eager fans and the public. The Phantom Menace deserves a place in film history not only as the most anticipated film ever made, but also for its place as the first film presented to the public with digital projection technology, its status as one of the highest grossing films ever made, and the unbelievable devotion of thousands of fans who demonstrated the great meaning movies can have to people of all ages and social backgrounds.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780595347322"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0595347320"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 252,
+                "printType": "BOOK",
+                "categories": ["History"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=S7HqPbh3uI4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=S7HqPbh3uI4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=S7HqPbh3uI4C&printsec=frontcover&dq=star+wars&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=S7HqPbh3uI4C&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Anticipation.html?hl=&id=S7HqPbh3uI4C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Anticipation-sample-epub.acsm?id=S7HqPbh3uI4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Anticipation-sample-pdf.acsm?id=S7HqPbh3uI4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=S7HqPbh3uI4C&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Anticipation tells the real-life story of a movie that faced expectations unlike those of any other film in history, but had the advantage of years of anticipation and excitement from eager fans and the public."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "v1gvkubRUoIC",
+            "etag": "Brs5IXIqG3c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/v1gvkubRUoIC",
+            "volumeInfo": {
+                "title": "The New Rebellion: Star Wars Legends",
+                "authors": ["Kristine Kathryn Rusch"],
+                "publisher": "Random House Worlds",
+                "publishedDate": "2011-06-28",
+                "description": "Award-winning author Kristine Kathryn Rusch brings her remarkable talents to the Star Wars(r) universe, where the New Republic faces sudden and total annihilation.... Somewhere in the galaxy, millions suddenly perish--a disruption of the Force so shocking it is felt by Luke at his Jedi academy and by Leia on Coruscant. While Leia must deal with an assassination attempt, a rumored plot against the New Republic, and allegations that Han Solo is involved, Luke seeks out a former Jedi student who may hold the key to the mass destruction. But Brakiss is only the bait in a deadly trap set by a master of the dark side who is determined to rule as emperor. He's targeted Luke, Leia, and Leia's Jedi children to die. Then billions will follow, in a holocaust unequaled in galactic history. Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780307796356"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0307796353"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 545,
+                "printType": "BOOK",
+                "categories": ["Fiction"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.11.7.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=v1gvkubRUoIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=v1gvkubRUoIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=v1gvkubRUoIC&printsec=frontcover&dq=star+wars&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=v1gvkubRUoIC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v1gvkubRUoIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 7.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 7.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=v1gvkubRUoIC&rdid=book-v1gvkubRUoIC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 7990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 7990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/The_New_Rebellion_Star_Wars_Legends-sample-epub.acsm?id=v1gvkubRUoIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=v1gvkubRUoIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "kBAS0zBfWCgC",
+            "etag": "Xos5Ne4l9/8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kBAS0zBfWCgC",
+            "volumeInfo": {
+                "title": "Star Wars®: Episode III: Revenge of the Sith",
+                "authors": ["Patricia C. Wrede", "George Lucas"],
+                "publisher": "Scholastic Inc.",
+                "publishedDate": "2012-04-01",
+                "description": "Award-winning author Patricia C. Wrede tells the final chapter of the Star Wars saga, in this incredible novel based on one of the most eagerly awaited movies of all time. The circle will now be complete: the final installment of the Star Wars saga, showing the emergence of Darth Vader, the downfall of the Jedi, and the revenge of the Sith.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780545482318"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0545482313"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 191,
+                "printType": "BOOK",
+                "categories": ["Juvenile Fiction"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.4.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kBAS0zBfWCgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kBAS0zBfWCgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=kBAS0zBfWCgC&printsec=frontcover&dq=star+wars&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=kBAS0zBfWCgC&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Star_Wars_Episode_III_Revenge_of_the_Sit.html?hl=&id=kBAS0zBfWCgC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Episode_III_Revenge_of_the_Sit-sample-epub.acsm?id=kBAS0zBfWCgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Episode_III_Revenge_of_the_Sit-sample-pdf.acsm?id=kBAS0zBfWCgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kBAS0zBfWCgC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Award-winning author Patricia C. Wrede tells the final chapter of the Star Wars saga, in this incredible novel based on one of the most eagerly awaited movies of all time."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bPC5xQ2nbbQC",
+            "etag": "+PC7JpZnkgU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bPC5xQ2nbbQC",
+            "volumeInfo": {
+                "title": "Classic Star Wars",
+                "subtitle": "A New Hope",
+                "authors": ["Larry Weinberg", "George Lucas"],
+                "publisher": "LucasBooks for Young Readers",
+                "publishedDate": "1995",
+                "description": "Rebels assist Princess Leia in breaking free from an evil empire which is controlling the galaxy.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0679872035"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780679872030"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 76,
+                "printType": "BOOK",
+                "categories": ["Juvenile Fiction"],
+                "averageRating": 3,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.7.4.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bPC5xQ2nbbQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bPC5xQ2nbbQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=bPC5xQ2nbbQC&q=star+wars&dq=star+wars&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=bPC5xQ2nbbQC&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Classic_Star_Wars.html?hl=&id=bPC5xQ2nbbQC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bPC5xQ2nbbQC&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Rebels assist Princess Leia in breaking free from an evil empire which is controlling the galaxy."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JSEwEAAAQBAJ",
+            "etag": "vpac9eQIStQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JSEwEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Star Wars Multiverse",
+                "authors": ["Carmelo Esterrich"],
+                "publisher": "Rutgers University Press",
+                "publishedDate": "2021-08-13",
+                "description": "Star Wars may have started out as a film about a Manichean battle between good and evil, but as countless filmmakers, novelists, animators, fan artists and even cosplayers have taken the opportunity to play in the fictional world George Lucas created, it has expanded into something far greater, resulting in a richly layered and diverse Star Wars multiverse. Drawing from a full range of Star Wars media, including comics, children’s books, fan films, and television shows like Clone Wars and The Mandalorian, Carmelo Esterrich explores how these stories set in a galaxy far far away reflect issues that hit closer to home. He examines what they have to say about political oppression, authoritarianism, colonialism, discrimination, xenophobia, and perpetual war. Yet he also investigates subtler ways in which the personal is political within the multiverse, including its articulations of gender and sexuality, its cultural hierarchies of language use, and its complex relationships between humans, droids and myriad species. This book demonstrates that the Star Wars multiverse is not just a stage for thrilling interstellar battles, but also an exciting space for interpretation and discovery.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781978815278"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1978815271"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 120,
+                "printType": "BOOK",
+                "categories": ["Performing Arts"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JSEwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JSEwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=JSEwEAAAQBAJ&printsec=frontcover&dq=star+wars&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=JSEwEAAAQBAJ&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Star_Wars_Multiverse.html?hl=&id=JSEwEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Multiverse-sample-epub.acsm?id=JSEwEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Multiverse-sample-pdf.acsm?id=JSEwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JSEwEAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book demonstrates that the Star Wars multiverse is not just a stage for thrilling interstellar battles, but also an exciting space for interpretation and discovery."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hmQBEAAAQBAJ",
+            "etag": "OTp0ebIaEPk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hmQBEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Star Wars: The Rising Storm (The High Republic)",
+                "authors": ["Cavan Scott"],
+                "publisher": "Del Rey",
+                "publishedDate": "2021-06-29",
+                "description": "NEW YORK TIMES BESTSELLER • The heroes of the High Republic era return to face a shattered peace and a fearsome foe, following the dramatic events of Light of the Jedi. In the wake of the hyperspace disaster and the heroism of the Jedi, the Republic continues to grow, bringing more worlds together under a single unified banner. Under the leadership of Chancellor Lina Soh, the spirit of unity extends throughout the galaxy, with the Jedi and the newly established Starlight Beacon station at the vanguard. In celebration, the chancellor plans the Republic Fair, a showcase of the possibilities and the peace of the expanding Republic—a peace the Jedi hope to foster. Stellan Gios, Bell Zettifar, Elzar Mann, and others join the event as ambassadors of harmony. But as the eyes of the galaxy turn toward the fair, so too does the fury of the Nihil. Their leader, Marchion Ro, is intent on destroying this unity. His storm descends on the pageantry and celebration, sowing chaos and exacting revenge. As the Jedi struggle to curb the carnage of the rampaging Nihil, they come face-to-face with the true fear their enemy plans to unleash across the galaxy—the kind of fear from which even the Force cannot shield them.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593159422"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "059315942X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 480,
+                "printType": "BOOK",
+                "categories": ["Fiction"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.4.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hmQBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hmQBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=hmQBEAAAQBAJ&printsec=frontcover&dq=star+wars&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=hmQBEAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hmQBEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 12.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 12.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=hmQBEAAAQBAJ&rdid=book-hmQBEAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 12990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 12990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_The_Rising_Storm_The_High_Repu-sample-epub.acsm?id=hmQBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hmQBEAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "NEW YORK TIMES BESTSELLER • The heroes of the High Republic era return to face a shattered peace and a fearsome foe, following the dramatic events of Light of the Jedi."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hV45EAAAQBAJ",
+            "etag": "Tx2TQyudwxU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hV45EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Star Wars: The Fallen Star (The High Republic)",
+                "authors": ["Claudia Gray"],
+                "publisher": "Random House Worlds",
+                "publishedDate": "2022-01-04",
+                "description": "NEW YORK TIMES BESTSELLER • In this gripping sequel to Star Wars: The Rising Storm, the light of the Jedi faces its darkest hour. Time and again, the vicious raiders known as the Nihil have sought to bring the golden age of the High Republic to a fiery end. Time and again, the High Republic has emerged battered and weary but victorious thanks to its Jedi protectors—and there is no monument to their cause grander than the Starlight Beacon. Hanging like a jewel in the Outer Rim, the Beacon embodies the High Republic at the apex of its aspirations: a hub of culture and knowledge, a bright torch against the darkness of the unknown, and an extended hand of welcome to the farthest reaches of the galaxy. As survivors and refugees flee the Nihil’s attacks, the Beacon and its crew stand ready to shelter and heal. The grateful Knights and Padawans of the Jedi Order stationed there finally have a chance to recover—from the pain of their injuries and the grief of their losses. But the storm they thought had passed still rages; they are simply caught in its eye. Marchion Ro, the true mastermind of the Nihil, is preparing his most daring attack yet—one designed to snuff out the light of the Jedi.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593355404"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593355407"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 405,
+                "printType": "BOOK",
+                "categories": ["Fiction"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.7.6.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hV45EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hV45EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=hV45EAAAQBAJ&printsec=frontcover&dq=star+wars&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=hV45EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hV45EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 8.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 8.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=hV45EAAAQBAJ&rdid=book-hV45EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 8990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 8990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_The_Fallen_Star_The_High_Repub-sample-epub.acsm?id=hV45EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hV45EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "NEW YORK TIMES BESTSELLER • In this gripping sequel to Star Wars: The Rising Storm, the light of the Jedi faces its darkest hour."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "kIjcHEM_HBoC",
+            "etag": "n2RrjHtFNdI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kIjcHEM_HBoC",
+            "volumeInfo": {
+                "title": "Star Wars®: Episode VI: Return of the Jedi",
+                "authors": ["Ryder Windham", "George Lucas"],
+                "publisher": "Scholastic Inc.",
+                "publishedDate": "2012-04-01",
+                "description": "The Emperor. The Ewoks. Jabba the Hutt. The climactic lightsaber battle . . . an amazing all-new novelization tying into the massive DVD release of the classic Star Wars movies. The Emperor. The Ewoks. Jabba the Hutt. The climactic lightsaber battle . . . an amazing all-new novelization tying into the massive DVD release of the classic Star Wars movies.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780545482356"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0545482356"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 190,
+                "printType": "BOOK",
+                "categories": ["Juvenile Fiction"],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kIjcHEM_HBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kIjcHEM_HBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=kIjcHEM_HBoC&printsec=frontcover&dq=star+wars&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=kIjcHEM_HBoC&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Star_Wars_Episode_VI_Return_of_the_Jedi.html?hl=&id=kIjcHEM_HBoC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Episode_VI_Return_of_the_Jedi-sample-epub.acsm?id=kIjcHEM_HBoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Star_Wars_Episode_VI_Return_of_the_Jedi-sample-pdf.acsm?id=kIjcHEM_HBoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kIjcHEM_HBoC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The Emperor."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "VVKQBQAAQBAJ",
+            "etag": "vrEU6uK/Mro",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/VVKQBQAAQBAJ",
+            "volumeInfo": {
+                "title": "Culture, Identities and Technology in the Star Wars Films",
+                "subtitle": "Essays on the Two Trilogies",
+                "authors": ["Carl Silvio", "Tony M. Vinci"],
+                "publisher": "McFarland",
+                "publishedDate": "2007-01-24",
+                "description": "Released in May 1977, the original Star Wars movie inaugurated the age of the movie blockbuster. It also redefined the use of cinematic special effects, creating a new textual universe that now stretches through three decades, two trilogies and generations of fascinated viewers. The body of critical analysis that has developed from this epic focuses primarily on the Star Wars universe as a contemporary myth. However, like any fiction, it must also be viewed--and consequently analyzed--as a product of the culture which created it. The essays in this book analyze the Star Wars trilogies as a culturally and historically specific phenomenon. Moving away from the traditional myth-based criticism of the films, the essayists employ a cultural studies model to examine how this phenomenon intersects with social formations such as economics, technology, race and gender. Critical approaches are varied and include political and economic analysis informed by feminism, contemporary race theory, Marxism, new media studies and post-humanism. Among the topics covered are the connections between the trilogies and our own cultural landscape; the problematic issues of race and gender; and the thematic implications of Lucas' presentation of technology. Instructors considering this book for use in a course may request an examination copy here.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780786429103"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0786429100"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 245,
+                "printType": "BOOK",
+                "categories": ["Performing Arts"],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=VVKQBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=VVKQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=VVKQBQAAQBAJ&printsec=frontcover&dq=star+wars&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=VVKQBQAAQBAJ&dq=star+wars&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Culture_Identities_and_Technology_in_the.html?hl=&id=VVKQBQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Culture_Identities_and_Technology_in_the-sample-pdf.acsm?id=VVKQBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=VVKQBQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "However, like any fiction, it must also be viewed--and consequently analyzed--as a product of the culture which created it. The essays in this book analyze the Star Wars trilogies as a culturally and historically specific phenomenon."
+            }
+        }
+    ]
+}
