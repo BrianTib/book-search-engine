@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const User = require("./models/User");
+const User = require("../models/User");
 const { AuthenticationError } = require("apollo-server-express");
 
 const secret = "mysecretsshhhhh";
@@ -7,6 +7,12 @@ const expiration = "2h";
 
 const resolvers = {
     Query: {
+        me: async (parent, args, context) => {
+            if (context.user) {
+                return User.findById(context.user._id);
+            }
+            throw new AuthenticationError("Not logged in");
+        },
         getUser: async (parent, { id }) => {
             return User.findById(id);
         },
